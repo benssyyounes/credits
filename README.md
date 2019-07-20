@@ -1,1 +1,2 @@
-# credits
+# Probot ✨
+Epic Discord Bot
